@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: Selik.kilayil@gmail.com
 - ⚡ Fun fact: I'm from another Galaxy.
+
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selikkilayil&layout=compact)]
