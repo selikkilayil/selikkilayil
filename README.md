@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on .Net 6
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Xamarin
 - 💬 Ask me about Anything
 - 📫 How to reach me: Selik.kilayil@gmail.com
 - ⚡ Fun fact: I'm from another Galaxy.
