@@ -8,4 +8,3 @@
 - 🌱 I’m currently learning Xamarin
 - 💬 Ask me about Anything
 - 📫 How to reach me: Selik.kilayil@gmail.com
-- ⚡ Fun fact: I'm from another Galaxy.
