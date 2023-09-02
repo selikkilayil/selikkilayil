@@ -4,7 +4,7 @@
     <a href="https://linkedin.com/in/selik-kilayil"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
-- 🔭 I’m currently working on .Net 6  
+- 🔭 I’m currently working on .Net 7 
 - 🌱 I’m currently mastering react
 - 💬 Ask me about Anything
 - 📫 How to reach me: Selik.kilayil@gmail.com
