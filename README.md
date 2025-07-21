@@ -4,9 +4,9 @@
     <a href="https://linkedin.com/in/selik-kilayil"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
-- 🔭 I’m currently working on .Net 7 
-- 🌱 I’m currently mastering react
-- 💬 Ask me about Anything
+- 🔭 I’m currently working with claude code 
+- 🌱 I’m currently mastering AI agent
+- 💬 Ask me about nothing coz i will chatgpt 
 - 📫 How to reach me: Selik.kilayil@gmail.com
 
 <a href="https://app.daily.dev/selik"><img src="https://api.daily.dev/devcards/57fb275787194a019ec564b19ed14d64.png?r=o6v" width="400" alt="Selik's Dev Card"/></a>
